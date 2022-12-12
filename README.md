@@ -8,6 +8,18 @@
   <a href="https://github.com/YauhenKavalchuk">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
+---
+
+## I'm a Developer, Teacher and Mentor!
+
+- 📍 I’m From Belarus (Minsk)
+- 💻 7+ Years Experience in Front-end Development
+- 👨‍💻 Front-end Enthusiast & Volunteer
+- 📚 Mentor & Lecturer in Rolling Scopes School
+- 🎙YouTube Lecturer
+
+---
+
 ### 🤝 Connect with me:
 <!--
 [<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]

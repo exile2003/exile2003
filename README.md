@@ -7,7 +7,7 @@
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
-[<img alt="webDev | YouTube" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=009600c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/exile200" />][fork]
+[<img alt="webDev | Fork" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=009600c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/exile200" />][fork]
 
 
 [youtube]: https://youtube.com/YauhenKavalchuk
@@ -17,7 +17,7 @@
 [twitter]: https://twitter.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [patron]: https://www.patreon.com/YauhenKavalchuk
-[fork] https://github.com/exile2003?tab=repositories&sort=stargazers
+[fork]: https://github.com/exile2003?tab=repositories&sort=stargazers
 
 <!--
 **exile2003/exile2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on ...
+[<img alt="webDev | YouTube" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=009600c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/exile200" />]
 
 <!--
 **exile2003/exile2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

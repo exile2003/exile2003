@@ -93,7 +93,7 @@
 [vk]: https://vk.com/exile2003
 [twitter]: https://twitter.com/
 [fork]: https://github.com/exile2003?tab=repositories&sort=stargazers
-[mail]: "mailto:exile2003@mail.ru&subject=mail_from_my_GitHub_account"
+[mail]: mailto:exile2003@mail.ru&subject=mail_from_my_GitHub_account
 [facebook]: https://www.facebook.com/profile.php?id=100008434849310
 
 <!--

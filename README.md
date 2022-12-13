@@ -27,7 +27,7 @@
 -->
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
-[<img alt="webDev | Facebook" src="https://custom-icon-badges.demolab.com/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img alt="webDev | Facebook" src="https://img.shields.io/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 
 ---

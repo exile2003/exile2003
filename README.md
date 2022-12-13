@@ -73,17 +73,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=exile2003&theme=algolia" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exile2003&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
-
----
-
-
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100008434849310

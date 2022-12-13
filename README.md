@@ -92,7 +92,7 @@
 [vk]: https://vk.com/exile2003
 [twitter]: https://twitter.com/
 [fork]: https://github.com/exile2003?tab=repositories&sort=stargazers
-[mail]: https://gmail.com
+[mail]: https://gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHRLnDLbbBHtrzfSNFjwpslgfGtpVPfDRSqKzrrCCsdgjVZhhQJjSRzpfxHWGldfdxvgqq
 
 <!--
 **exile2003/exile2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,7 +22,7 @@
 [<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?&style=for-the-badge&logo=mail" />][twitter]
+[<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 
 -->
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -91,6 +91,7 @@
 [vk]: https://vk.com/exile2003
 [twitter]: https://twitter.com/
 [fork]: https://github.com/exile2003?tab=repositories&sort=stargazers
+[mail]: https://gmail.com
 
 <!--
 **exile2003/exile2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

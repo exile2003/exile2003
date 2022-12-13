@@ -1,7 +1,7 @@
 
 ### Hi all, I'm Vitalii 👋
 
-<a href="(https://github.com/exile2003?tab=stars)">
+<a href="https://github.com/exile2003?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/exile2003"/></a>
   <a href="https://github.com/exile2003?tab=repositories&q=&type=fork">
     <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/exile2003"/></a>

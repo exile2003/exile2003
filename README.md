@@ -61,7 +61,7 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-11eeee.svg?logo=webstorm-3&style=for-the-badge" />&nbsp;
+<img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-11eeee.svg?logo=webstorm-3&style=for-the-badge?labelColor=black" />&nbsp;
 
 <!--
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;

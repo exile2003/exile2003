@@ -61,7 +61,6 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-11eeee.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 <img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 
 <!--
@@ -70,6 +69,7 @@
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 
+<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-11eeee.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-11cccc.svg?logo=webstorm&color=black&labelColor=000&style=for-the-badge" />&nbsp;
 -->
 

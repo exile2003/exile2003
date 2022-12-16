@@ -1,5 +1,9 @@
 
-### Hi all, I'm Vitalii 👋
+Hi all, I'm Vitalii.
+I'm a Web Developer.
+
+
+### 👋 My GitHub statistics
 
 <a href="https://github.com/exile2003?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/exile2003"/></a>
@@ -100,6 +104,7 @@
 [facebook]: https://www.facebook.com/profile.php?id=100008434849310
 
 <!--
+
 **exile2003/exile2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -112,4 +117,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi all, I'm Vitalii 👋
+
 -->

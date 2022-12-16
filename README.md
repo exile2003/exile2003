@@ -1,10 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/exile2003">
-    <img src="./img/Hi-2.png" alt="Vitalii" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&lines=Hi+all%2C+I'm+Vitalii" alt="Vitalii" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&lines=Hi+all%2C+I'm+Vitalii)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Web+Developer&font=Segoe%20UI&center=true&width=500&height=50&duration=4000&pause=1000&size=40">

@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/exile2003">
-    <img src="./img/Hi.png" alt="Jonah Lawrence" /></a>
+    <img src="./Hi.png" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">

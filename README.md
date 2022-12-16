@@ -4,17 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/exile2003">
-    <img src="./img/Hi.png" alt="Jonah Lawrence" /></a>
+    <img src="./img/Hi.png" alt="Vitalii" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/exile2003">
-    <img src="./Hi.png" alt="Jonah Lawrence" /></a>
-</p>
-
-<p align="center">
-  <font style="font-family:'Fira Code'; font-size:5; color=#1100cc">Hi all, I'm Vitalii</font>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Web+Developer.&font=Segoe%20UI&center=true&width=500&height=50&duration=4000&pause=1000&size=35">
@@ -136,5 +128,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Hi all, I'm Vitalii 👋
+
+<p align="center">
+  <font style="font-family:'Fira Code'; font-size:5; color=#1100cc">Hi all, I'm Vitalii</font>
+</p>
 
 -->

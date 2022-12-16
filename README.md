@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Web+Developer.&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&size=35">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Web+Developer.&font=Segoe%20UI&center=true&width=500&height=50&duration=4000&pause=1000&size=35">
 </p>
 
 ### 👋 My GitHub statistics

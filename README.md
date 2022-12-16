@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<span style="font-family:Fira%20Code; font-size:35px; color=#1100cc">Hi all, I'm Vitalii</span>
+  <h2 style="font-family:Fira%20Code; font-size:35px; color=#1100cc">Hi all, I'm Vitalii</h2>
 </p>
 
 <p align="center">

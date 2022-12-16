@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/exile2003">
-    <img src="./img/Hi.png" alt="Vitalii" /></a>
+    <img src="./img/Hi-2.png" alt="Vitalii" /></a>
 </p>
 
 <p align="center">

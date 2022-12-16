@@ -1,6 +1,3 @@
-# My resume
-
-<font size=”15”>**Hi, I'm Hi? I'm here**</font>
 
 <p align="center">
   <a href="https://github.com/exile2003">

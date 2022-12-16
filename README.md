@@ -8,6 +8,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/exile2003">
+    <img src="./Hi.png" alt="Jonah Lawrence" /></a>
+</p>
+
+<p align="center">
   <font style="font-family:'Fira Code'; font-size:5; color=#1100cc">Hi all, I'm Vitalii</font>
 </p>
 

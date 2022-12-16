@@ -1,6 +1,6 @@
 # My resume
 
-<font size=”5”>Hi, I'm</font>
+<font size=”15”>Hi, I'm</font>
 
 <p align="center">
   <a href="https://github.com/exile2003">

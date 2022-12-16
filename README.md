@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/exile2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&lines=Hi+all%2C+I'm+Vitalii" alt="Vitalii" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&lines=Hi+all%2C+I'm+Vitalii&center=true&size=30" alt="Vitalii" /></a>
 </p>
 
 <p align="center">

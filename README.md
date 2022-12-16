@@ -3,9 +3,9 @@
   <a href="https://github.com/exile2003">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
-###
+
 <p align="center">
-  <p style="font-family:Fira%20Code; font-size:35px; color=#1100cc">Hi all, I'm Vitalii</p>
+  <p style="font-family:Fira Code; font-size:35px; color=#1100cc">Hi all, I'm Vitalii</p>
 </p>
 
 <p align="center">

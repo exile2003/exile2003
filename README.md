@@ -27,7 +27,7 @@
 
 - 📍 I’m From Kaliningrad
 - 💻 3+ Years Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast
+- 👨‍💻 Web development Enthusiast
 ---
 
 ### 🤝 Connect with me:

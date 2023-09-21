@@ -77,6 +77,8 @@
 
 <img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-11eeee.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-11cccc.svg?logo=webstorm&color=black&labelColor=000&style=for-the-badge" />&nbsp;
+<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&labelColor=1deefe&style=for-the-badge" />&nbsp;
+
 -->
 
 ---

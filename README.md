@@ -68,7 +68,7 @@
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 <img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&labelColor=000&style=for-the-badge" />&nbsp;
-<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&labelColor=000&style=for-the-badge&logoColor=1deefe" />&nbsp;
+<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&labelColor=000&style=for-the-badge&logoColor=000" />&nbsp;
 
 <!--
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;

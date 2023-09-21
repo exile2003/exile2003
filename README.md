@@ -69,7 +69,7 @@
 <img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-11cccc.svg?logo=webstorm-3&color=black&labelColor=000&style=for-the-badge" />&nbsp;
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-4&logoColor=black&labelColor=000&style=for-the-badge" />&nbsp;
-<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-3&style=for-the-badge&logoColor=black" />&nbsp;
+<img alt="webstorm" src="https://custom-icon-badges.demolab.com/badge/webstorm-1deefe.svg?logo=webstorm-4&style=for-the-badge&logoColor=black" />&nbsp;
 
 <!--
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;

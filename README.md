@@ -19,7 +19,7 @@
 
 ---
 - 📍 I’m From Kaliningrad
-- 💻 3+ Years Experience in Web development Development
+- 💻 3+ Years Experience in Web development
 - 👨‍💻 Web development Enthusiast
 ---
 

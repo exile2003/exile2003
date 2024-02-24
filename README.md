@@ -1,4 +1,4 @@
-![html5-original-wordmark](https://github.com/exile2003/exile2003/assets/31631692/cc53875c-8186-4625-8fc6-1e0d78951005)<p align="center">
+<p align="center">
   <a href="https://github.com/exile2003">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&height=50&lines=Hi+all%2C+I'm+Vitalii&center=true&vCenter=true&size=35" alt="Vitalii" /></a>
 </p>

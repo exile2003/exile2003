@@ -36,6 +36,9 @@
 [<img alt="webDev | Facebook" src="https://img.shields.io/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 
+<a href="https://linkedin.com/in/mikhaillarchanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhaillarchanka" height="30" width="40" /></a>
+<a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
+
 ---
 ### 💻 Tech Stack:
 
@@ -181,7 +184,7 @@
 [vk]: https://vk.com/exile2003
 [twitter]: https://twitter.com/
 [fork]: https://github.com/exile2003?tab=repositories&sort=stargazers
-[mail]: mailto:exile2003@mail.ru&subject=mail_from_my_GitHub_account
+[mail]: mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account
 [facebook]: https://www.facebook.com/profile.php?id=100008434849310
 
 <!--

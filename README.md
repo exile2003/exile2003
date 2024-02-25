@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
 <style>
   .link-container a {
     margin-right: 10px; /* Пример отступа между ссылками */

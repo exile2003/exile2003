@@ -37,7 +37,7 @@
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
-<a href="[vk]" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
+<a href=[vk] target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="40" /></a>
 

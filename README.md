@@ -37,7 +37,7 @@
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 
 ---
-<p background-color:'green' >
+<p style="background-color:'green'" >
 ### 💻 Tech Stack:
 
 <!--

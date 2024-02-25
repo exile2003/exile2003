@@ -1,3 +1,8 @@
+<style>
+  .link-container a {
+    margin-right: 10px; /* Пример отступа между ссылками */
+  }
+</style>
 <p align="center">
   <a href="https://github.com/exile2003">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&height=50&lines=Hi+all%2C+I'm+Vitalii&center=true&vCenter=true&size=35" alt="Vitalii" /></a>
@@ -60,11 +65,6 @@
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
 -->
-<style>
-  .link-container a {
-    margin-right: 10px; /* Пример отступа между ссылками */
-  }
-</style>
 
 <div class="link-container">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

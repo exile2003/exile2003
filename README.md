@@ -44,9 +44,6 @@
 <a href="https://www.facebook.com/profile.php?id=100008434849310" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 
-https://www.vectorlogo.zone/logos/vk/vk-tile.svg
-https://www.vectorlogo.zone/logos/facebook/facebook-official.svg
-
 ---
 ### 💻 Tech Stack:
 

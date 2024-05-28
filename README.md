@@ -7,7 +7,7 @@
   <a href="https://github.com/exile2003">
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1F9CF7&width=700&height=35&lines=I'm+a+Web+Developer;Always+learning+new+things;Trying+to+do+my+job+perfectly;&center=true&vCenter=true&size=30" alt="Vitalii" />
 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1F9CF7&width=700&height=35&lines=This+string+is+just+a+show-off;I+copied+it+from+some+service;To+show+it+to+you+for+fun;&center=true&vCenter=true&size=30" alt="Vitalii" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1F9CF7&width=700&height=35&lines=This+string+is+just+a+show-off;I+copied+the+code+from+some+service;To+show+it+to+you+for+fun;&center=true&vCenter=true&size=30" alt="Vitalii" />
   </a> 
 </p>
 

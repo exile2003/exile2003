@@ -49,7 +49,7 @@
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]
+[(https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]
 [![VK](https://www.vectorlogo.zone/logos/vk/vk-icon.svg)](https://vk.com/...)
 [![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)](https://facebook.com/...)
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:...)

@@ -48,6 +48,11 @@
 <a href="https://www.facebook.com/profile.php?id=100008434849310" target="blank" title="Facebook"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 </p>
+
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/...)
+[![VK](https://www.vectorlogo.zone/logos/vk/vk-icon.svg)](https://vk.com/...)
+[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)](https://facebook.com/...)
+[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:...)
 ---
 ### 💻 Tech Stack:
 

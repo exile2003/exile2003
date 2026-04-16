@@ -53,7 +53,7 @@
 [![VK](https://www.vectorlogo.zone/logos/vk/vk-icon.svg)][vk]
 [![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)][facebook]
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)][mail]
----
+
 ### 💻 Tech Stack:
 
 <!--

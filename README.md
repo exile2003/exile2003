@@ -43,10 +43,10 @@
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 -->
 
-[<img alt="webDev | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" />][linkedin]
-[<img alt="webDev | VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" />][vk]
-[<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>][facebook]
-[<img alt="webDev | Mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  />][mail]
+[<img alt="webDev | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" />][linkedin]&nbsp;
+[<img alt="webDev | VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" />][vk]&nbsp;
+[<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>][facebook]&nbsp;
+[<img alt="webDev | Mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  />][mail]&nbsp;
 
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30"/></a>
 <a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img  alt="vitalii-iakovenko" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30" width="30"/></a>

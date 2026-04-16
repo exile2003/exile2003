@@ -43,6 +43,11 @@
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 -->
 
+[<img alt="webDev | LinkedIn" src="(https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)" />][linkedin]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+[<img alt="webDev | Facebook" src="https://img.shields.io/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
+
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn" height="30" width="30"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30"/></a>
 <a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img  alt="vitalii-iakovenko" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30" width="30"/></a>
 

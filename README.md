@@ -44,7 +44,7 @@
 -->
 
 [<img alt="webDev | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30"/>][linkedin]
-[<img alt="webDev | VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg"  height="30" width="30"/>][vk]
+[<img alt="webDev | VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg"/>][vk]
 [<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  height="30" width="30"/>][facebook]
 [<img alt="webDev | Mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30" />][mail]
 

@@ -54,13 +54,13 @@
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko"  height="30"/></a>
 
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30"/>
   </a>
   <a href="https://vk.com/exile2003" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30"  />
+    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100008434849310" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="30"  />
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="30"/>
   </a>
   <a href="mailto:exile2003@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30"  />

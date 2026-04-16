@@ -44,7 +44,7 @@
 -->
 
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
-<a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="30"/></a>
+<a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko"/></a>
 <a href="https://github.com/exile2003?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/exile2003" /></a>
 <a href="https://github.com/exile2003?tab=stars">

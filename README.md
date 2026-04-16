@@ -43,15 +43,15 @@
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
 -->
 
-<p align="center"><a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a></p>
-<p align="center"><a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a></p>
+<a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
+<a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 
 <a href="https://github.com/exile2003?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/exile2003"/></a>
 
 
-<a href="https://www.facebook.com/profile.php?id=100008434849310"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a></p>
-<p align="center"><a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a></p>
+<a href="https://www.facebook.com/profile.php?id=100008434849310"><img target="blank" title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
+<a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 
 <!--
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]

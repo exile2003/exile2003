@@ -50,12 +50,12 @@
 <a href="https://www.facebook.com/profile.php?id=100008434849310"><img target="blank" title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 
- <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" style="display:inline-block" target="_blank">
+ <span><a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" />
-  </a>
-  <a href="https://vk.com/exile2003" style="display:inline-block" target="_blank">
+  </a></span>
+  <span><a href="https://vk.com/exile2003" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30" width="30" />
-  </a>
+  </a></span>
   <a href="https://www.facebook.com/profile.php?id=100008434849310" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="30" width="30" />
   </a>

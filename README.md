@@ -33,7 +33,6 @@
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
-
 -->
 
 <!--
@@ -53,12 +52,6 @@
 <a href="https://www.facebook.com/profile.php?id=100008434849310"><img target="blank" title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko"  height="30"/></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko"  height="30"/></a>
 
-<!--
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]
-[![VK](https://www.vectorlogo.zone/logos/vk/vk-icon.svg)][vk]
-[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)][facebook]
-[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)][mail]
--->
 ---
 ### 💻 Tech Stack:
 
@@ -83,9 +76,9 @@
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
 -->
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="SASS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="SASS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 

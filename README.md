@@ -52,16 +52,16 @@
 
  <span><a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30" />
-  </a></span>
-  <span><a href="https://vk.com/exile2003" style="display:inline-block" target="_blank">
+  </a>
+  <a href="https://vk.com/exile2003" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30" width="30" />
-  </a></span>
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100008434849310" style="display:inline-block" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" height="30" width="30" />
   </a>
   <a href="mailto:exile2003@gmail.com" style="display:inline-block">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30" />
-  </a>
+  </a></span>
 
 <!--
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]

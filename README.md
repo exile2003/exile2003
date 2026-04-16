@@ -36,20 +36,20 @@
 
 -->
 
-
+<!--
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 [<img alt="webDev | Facebook" src="https://img.shields.io/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img alt="webDev | Mail" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?&style=for-the-badge&logo=mail" />][mail]
+-->
 
-<p align="center">
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008434849310" target="blank" title="Facebook"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
 <a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko" height="30" width="30" /></a>
-</p>
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/...)
+
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]
 [![VK](https://www.vectorlogo.zone/logos/vk/vk-icon.svg)](https://vk.com/...)
 [![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)](https://facebook.com/...)
 [![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:...)

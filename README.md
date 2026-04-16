@@ -45,7 +45,7 @@
 
 [<img alt="webDev | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>][linkedin]
 [<img alt="webDev | VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" height="30" width="30"/>][vk]
-[<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  height="30" width="30"/>][facebook]
+[<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>][facebook]
 [<img alt="webDev | Mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30" />][mail]
 
 <a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" height="30" width="30"/></a>

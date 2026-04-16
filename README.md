@@ -47,10 +47,10 @@
 [<img alt="webDev | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30"/>][facebook]
 [<img alt="webDev | Mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" />][mail]
 -->
-<a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vitalii-iakovenko" width="30"/></a>
-<a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img  alt="vitalii-iakovenko" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" width="30"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008434849310"><img target="blank" title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="vitalii-iakovenko"  width="30"/></a>
-<a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="vitalii-iakovenko"  width="30"/></a>
+<a href="https://www.linkedin.com/in/vitalii-iakovenko-4b6367236" target="blank" title="LinkedIn" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30"/></a>
+<a href="https://vk.com/exile2003" target="blank" title="ВКонтакте"><img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" width="30"/></a>
+<a href="https://www.facebook.com/profile.php?id=100008434849310" target="blank" title="Facebook" ><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30"/></a>
+<a href="mailto:exile2003@gmail.com&subject=mail_from_my_GitHub_account" target="blank" title="E-mail"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30"/></a>
 
 ---
 ### 💻 Tech Stack:

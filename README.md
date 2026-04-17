@@ -12,8 +12,6 @@
   </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exile2003)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 👋 My GitHub statistics
 
 <a href="https://github.com/exile2003?tab=stars">

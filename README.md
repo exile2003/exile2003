@@ -154,6 +154,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" /></a>
 <a href="https://jira.com/" target="_blank" rel="noreferrer" title="Jira"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" /></a>
+<a href="https://cursor.com/agents" target="_blank" rel="noreferrer" title="Cursor"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cursor.svg" alt="Jira" width="40" /></a>
 
 <!--
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
